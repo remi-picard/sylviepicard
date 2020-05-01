@@ -15,6 +15,7 @@ jobs:
       - name: Install and Build 🔧
         run: |
           npm i
+          sed -i 's|<base href="/" />|<base href="/sylviepicard/" />|g' index.html
           npm run build
 
       - name: Deploy 🚀
