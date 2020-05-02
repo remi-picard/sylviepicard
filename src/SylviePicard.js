@@ -45,7 +45,7 @@ export class SylviePicard extends LitElement {
         ${this._oeuvres.map(
           o =>
             html`<image-element
-              id=${o.imageId}
+              fichierNom=${o.fichierNom}
               titre="${o.titre}"
               descriptif="${o.descriptif.replace(/\n/g, '<br/>')}"
             ></image-element>`

@@ -28,11 +28,14 @@ export class HeaderElement extends LitElement {
         margin: auto;
         min-width: 300px;
         max-width: 800px;
-        height: 40px;
+        min-height: 40px;
         list-style: none;
       }
       li {
         display: inline;
+      }
+      li a {
+        text-decoration: none;
       }
       li.liens-page {
         padding-left: 40px;
@@ -40,9 +43,6 @@ export class HeaderElement extends LitElement {
       }
       li.insta {
         padding-left: 15px;
-      }
-      li.insta a {
-        text-decoration: none;
       }
       li.insta img,
       li.gmail img {

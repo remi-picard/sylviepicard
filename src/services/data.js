@@ -1,6 +1,6 @@
 export default [
   {
-    imageId: 49,
+    fichierNom: '49.jpeg',
     titre: 'Fantassin chinois',
     descriptif: '',
     dateMaj: '2015-05-03',
@@ -10,7 +10,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 50,
+    fichierNom: '50.jpeg',
     titre: 'Jeune homme N°1',
     descriptif: '',
     dateMaj: '2015-05-03',
@@ -20,7 +20,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 53,
+    fichierNom: '53.jpeg',
     titre: 'Rémi',
     descriptif: '',
     dateMaj: '2015-05-03',
@@ -30,7 +30,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 54,
+    fichierNom: '54.jpeg',
     titre: 'David',
     descriptif: '',
     dateMaj: '2015-05-03',
@@ -40,7 +40,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 56,
+    fichierNom: '56.jpeg',
     titre: 'Jeune homme N°2',
     descriptif: '',
     dateMaj: '2015-05-03',
@@ -50,7 +50,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 59,
+    fichierNom: '59.jpeg',
     titre: 'Général chinois',
     descriptif:
       "approche de l'expression sur photo et recherche sur internet sur les fouilles archéologiques de l'armée enterrée du premier empereur de Chine (7000 statues grandeur nature en terre cuite créées 212 avant J.-C) construction du mausolée en quête de l'éternité... impressionnée, j'ai donc créé trois sculptures en mémoire de ces chefs d'oeuvres.",
@@ -61,7 +61,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 60,
+    fichierNom: '60.jpeg',
     titre: 'Bruno',
     descriptif:
       "Buste de mon époux Bruno à ses 50 printemps, réalisé d'après photos et poses en modèle vivant. Terre cuite rouge patine bronze. Hauteur : 38 cm",
@@ -72,7 +72,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 65,
+    fichierNom: '65.jpeg',
     titre: 'Robin des bois',
     descriptif: '',
     dateMaj: '2015-05-03',
@@ -82,7 +82,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 136,
+    fichierNom: '136.jpeg',
     titre: 'Damoiselle de la Cornouaille',
     descriptif:
       "Douceur des traits d'expression pour cette jeune femme.\n2 Photos :\n- Buste en terre ocre jaune en attente de cuisson\n- Buste après cuisson et pâtine très réaliste du visage.",
@@ -93,7 +93,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 137,
+    fichierNom: '137.jpeg',
     titre: 'Damoiselle de la Cornouaille',
     descriptif:
       "Douceur des traits d'expression pour cette jeune femme.\n2 Photos :\n- Buste en terre ocre jaune en attente de cuisson\n- Buste après cuisson et pâtine très réaliste du visage.",
@@ -104,7 +104,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 147,
+    fichierNom: '147.jpeg',
     titre: 'Moine tibétain en prière',
     descriptif:
       'Buste de 50 cm de haut, pâtine très réaliste avec des effets cirés et quelques dorures.',
@@ -115,7 +115,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 169,
+    fichierNom: '169.jpeg',
     titre: 'Buste de Cécile',
     descriptif:
       "Buste de Cécile réalisé avec beaucoup d'émotion d'après diverses photos prises sur quelques années, en hommage à une artiste disparue. Pièce unique en céramique, patine bronze vert antique",
@@ -126,7 +126,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 48,
+    fichierNom: '48.jpeg',
     titre: 'Opéra',
     descriptif: '',
     dateMaj: '2015-05-03',
@@ -136,7 +136,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 57,
+    fichierNom: '57.jpeg',
     titre: 'La valse',
     descriptif:
       "modelage d'après l'oeuvre de Camille CLAUDEL  de 60 X 30 cm en terre cuite rouge patine cirée terre d'ombre.",
@@ -147,7 +147,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 64,
+    fichierNom: '64.jpeg',
     titre: 'Les anneaux du bonheur',
     descriptif:
       "couple en terre cuite couleur terre d'ombre\n\nphoto prise en terre crue humide à la fin de sa création. Cadeau de mariage offert à mon neveu.",
@@ -158,7 +158,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 70,
+    fichierNom: '70.jpeg',
     titre: 'Grand opéra',
     descriptif:
       "Grande sculpture de 1m de haut créée au printemps dernier.  Pièce maitresse qui sera présentée au 48ème salon de l'ADAC à Châtillon près de Paris du 6 au 21 octobre 2012 et figurera au catalogue avec un portrait en pastel. Couple en terre cuite rouge (30 kg) patine bronze bleu cirée vieille or pour les accroches de lumière.",
@@ -169,7 +169,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 102,
+    fichierNom: '102.jpeg',
     titre: 'Instant de tendresse',
     descriptif:
       "Couple enlacé réalisé d'après photo de modèles vivants. Approche d'un instant de tendresse par la posture, la gestuelle et l'expression des deux amants. hauteur de la pièce 50 cm.\nSculptures en céramique blanche après cuisson.\nPhotos prises de face et de trois quart de profil.",
@@ -180,7 +180,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 103,
+    fichierNom: '103.jpeg',
     titre: 'Instant de tendresse',
     descriptif:
       "Couple enlacé réalisé d'après photo de modèles vivants. Approche d'un instant de tendresse par la posture, la gestuelle et l'expression des deux amants. hauteur de la pièce 50 cm.\nSculptures en céramique blanche après cuisson.\nPhotos prises de face et de trois quart de profil.",
@@ -191,7 +191,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 133,
+    fichierNom: '133.jpeg',
     titre: 'Coco Version N°3',
     descriptif:
       'Statuette tout en élégance, fluidité, mouvement du drappé de la robe et des rubans qui composent le chapeau. \nPhotos :\n- En cours de séchage (avant cuisson)\n- Après cuisson Raku (2 photos)',
@@ -202,7 +202,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 134,
+    fichierNom: '134.jpeg',
     titre: 'Coco Version N°3',
     descriptif:
       'Statuette tout en élégance, fluidité, mouvement du drappé de la robe et des rubans qui composent le chapeau. \nPhotos :\n- En cours de séchage (avant cuisson)\n- Après cuisson Raku (2 photos)',
@@ -213,7 +213,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 135,
+    fichierNom: '135.jpeg',
     titre: 'Coco Version N°3',
     descriptif:
       'Statuette tout en élégance, fluidité, mouvement du drappé de la robe et des rubans qui composent le chapeau. \nPhotos :\n- En cours de séchage (avant cuisson)\n- Après cuisson Raku (2 photos)',
@@ -224,7 +224,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 142,
+    fichierNom: '142.jpeg',
     titre: 'Pluie de roses',
     descriptif:
       'Jeune femme tout en raffinement avec des effets métalliques dans le drapé. Senteur de roses et de fleurs mélées dans la coiffure et tombée très romantique de la mousseline de roses qui orne le bas de la robe.\n2 Photos :\n- attente de cuisson raku\n- après cuisson.',
@@ -235,7 +235,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 143,
+    fichierNom: '143.jpeg',
     titre: 'Pluie de roses',
     descriptif:
       'Jeune femme tout en raffinement avec des effets métalliques dans le drapé. Senteur de roses et de fleurs mélées dans la coiffure et tombée très romantique de la mousseline de roses qui orne le bas de la robe.\n2 Photos :\n- attente de cuisson raku\n- après cuisson.',
@@ -246,7 +246,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 91,
+    fichierNom: '91.jpeg',
     titre: 'Coco version n°2',
     descriptif: 'Statuette en attente de cuisson raku.',
     dateMaj: '2015-05-03',
@@ -256,7 +256,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 145,
+    fichierNom: '145.jpeg',
     titre: 'Séduction',
     descriptif:
       "Jeune femme vue de dos en attente de cuisson céramique, en cours de séchage.\nRecherche de mouvement et de texture d'étoffe.",
@@ -267,7 +267,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 104,
+    fichierNom: '104.jpeg',
     titre: 'Plénitude N°3',
     descriptif:
       'Jeune femme de 64 cm tout en fluidité, de forme très épurée, en attente de cuisson.\nPhotos vue de côté et de dos.',
@@ -278,7 +278,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 105,
+    fichierNom: '105.jpeg',
     titre: 'Plénitude N°3',
     descriptif:
       'Jeune femme de 64 cm tout en fluidité, de forme très épurée, en attente de cuisson.\nPhotos vue de côté et de dos.',
@@ -289,7 +289,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 130,
+    fichierNom: '130.jpeg',
     titre: 'Antonella',
     descriptif:
       "Jeune femme en robe drapée tout en mouvement, enveloppée d'un tissus vaporeux, rubans légers, roses et large coiffe très romantique. Vue de dos, en attente de cuisson. sculpture de 84 cm.",
@@ -300,7 +300,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 32,
+    fichierNom: '32.jpeg',
     titre: 'Eric',
     descriptif:
       'Statuette en terre cuite rouge\n\ncreation d après modèle vivant de 45 cm de haut.',
@@ -311,7 +311,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 33,
+    fichierNom: '33.jpeg',
     titre: 'Faunesse',
     descriptif:
       "Jeune femme en étirement réalisée\n\nD'après l'œuvre de Rodi\n\nTerre cuite rouge patine bronze bleu\n\nHauteur 40 cm.",
@@ -322,7 +322,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 35,
+    fichierNom: '35.jpeg',
     titre: "Instant d'amour",
     descriptif:
       "couple nu en terre cuite couleur terre d'ombre cire antiquaire incolore de 40 X 12 cm. J'ai actuellement pour projet de la réaliser en grand format comme grand opéra après un nouveau couple \\\\\"enlacé\\\\\" que je suis en train de créer d'après photos de modèles vivants.",
@@ -333,7 +333,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 36,
+    fichierNom: '36.jpeg',
     titre: 'Homme en étirement',
     descriptif:
       'Création en terre cuite rouge d après modèle vivant - hauteur 30 cm.',
@@ -344,7 +344,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 37,
+    fichierNom: '37.jpeg',
     titre: 'Judith',
     descriptif:
       "creation en argile rouge d'après modèle vivant, hauteur de 30 cm.",
@@ -355,7 +355,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 144,
+    fichierNom: '144.jpeg',
     titre: 'Promesse N°2',
     descriptif:
       "Statuette en terre cuite rouge patine bronze bleu présentée sur axe et socle patine terre d'ombre dorée.\nHauteur 58cm.",
@@ -366,7 +366,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 94,
+    fichierNom: '94.jpeg',
     titre: 'La penseuse',
     descriptif:
       'Jeune femme nue en équilibre sur trois galets. En attente de cuisson.',
@@ -377,7 +377,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 95,
+    fichierNom: '95.jpeg',
     titre: 'La sirène',
     descriptif:
       "Jeune sirène nue sortie des eaux s'exposant aux rayons généreux du soleil sur un rocher. En attente de cuisson. Hauteur : 50 cm.",
@@ -388,7 +388,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 118,
+    fichierNom: '118.jpeg',
     titre: 'Africaine',
     descriptif:
       'Jeune femme africaine, très épurée, enfumée plus un émail doré sur le joli serpent qui épouse son corps...',
@@ -399,7 +399,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 116,
+    fichierNom: '116.jpeg',
     titre: 'Flora',
     descriptif:
       "Jeune femme des années trente au grand drapé métallisé à l'image de Donatella.\nPhotos prises de face et de dos et avant cuisson.",
@@ -410,7 +410,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 117,
+    fichierNom: '117.jpeg',
     titre: 'Flora',
     descriptif:
       "Jeune femme des années trente au grand drapé métallisé à l'image de Donatella.\nPhotos prises de face et de dos et avant cuisson.",
@@ -421,7 +421,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 131,
+    fichierNom: '131.jpeg',
     titre: 'Flora',
     descriptif:
       "Jeune femme des années trente au grand drapé métallisé à l'image de Donatella.\nPhotos prises de face et de dos et avant cuisson.",
@@ -432,7 +432,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 108,
+    fichierNom: '108.jpeg',
     titre: "J'Adore",
     descriptif:
       'Sculpture raku inspirée de la pub du fameux parfum de Dior "J\'Adore", tout en mouvement et beaucoup d\'allure.\n3 Photos : \n- en attente de cuisson\n- de face après cuisson Raku\n- de dos après cuisson Raku',
@@ -443,7 +443,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 109,
+    fichierNom: '109.jpeg',
     titre: "J'Adore",
     descriptif:
       'Sculpture raku inspirée de la pub du fameux parfum de Dior "J\'Adore", tout en mouvement et beaucoup d\'allure.\n3 Photos : \n- en attente de cuisson\n- de face après cuisson Raku\n- de dos après cuisson Raku',
@@ -454,7 +454,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 139,
+    fichierNom: '139.jpeg',
     titre: "J'Adore",
     descriptif:
       'Sculpture raku inspirée de la pub du fameux parfum de Dior "J\'Adore", tout en mouvement et beaucoup d\'allure.\n3 Photos : \n- en attente de cuisson\n- de face après cuisson Raku\n- de dos après cuisson Raku',
@@ -465,7 +465,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 106,
+    fichierNom: '106.jpeg',
     titre: 'Sylvia',
     descriptif:
       "Mon auto-portrait en robe du soir, un peu à l'image de mes créations, tout en féminité comme j'aime être dans la vie.\n3 Photos :\n- Avant cuisson\n- De face après cuisson\n- De dos après cuisson",
@@ -476,7 +476,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 107,
+    fichierNom: '107.jpeg',
     titre: 'Sylvia',
     descriptif:
       "Mon auto-portrait en robe du soir, un peu à l'image de mes créations, tout en féminité comme j'aime être dans la vie.\n3 Photos :\n- Avant cuisson\n- De face après cuisson\n- De dos après cuisson",
@@ -487,7 +487,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 146,
+    fichierNom: '146.jpeg',
     titre: 'Sylvia',
     descriptif:
       "Mon auto-portrait en robe du soir, un peu à l'image de mes créations, tout en féminité comme j'aime être dans la vie.\n3 Photos :\n- Avant cuisson\n- De face après cuisson\n- De dos après cuisson",
@@ -498,7 +498,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 115,
+    fichierNom: '115.jpeg',
     titre: 'Plénitude N°2',
     descriptif:
       'Jeune femme élancée, de forme épurée et émaillée en raku, dans la couleur rouge rubis, sa chevelure est glacée nacre blanc craquelé.',
@@ -509,7 +509,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 114,
+    fichierNom: '114.jpeg',
     titre: 'jolie sirène sur son rocher',
     descriptif:
       'Sortie des eaux pour cette jeune et jolie sirène échouée sur son rocher, en étirement face au soleil...',
@@ -520,7 +520,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 120,
+    fichierNom: '120.jpeg',
     titre: 'jolie sirène sur son rocher',
     descriptif:
       'Sortie des eaux pour cette jeune et jolie sirène échouée sur son rocher, en étirement face au soleil...',
@@ -531,7 +531,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 121,
+    fichierNom: '121.jpeg',
     titre: 'jolie sirène sur son rocher',
     descriptif:
       'Sortie des eaux pour cette jeune et jolie sirène échouée sur son rocher, en étirement face au soleil...',
@@ -542,7 +542,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 25,
+    fichierNom: '25.jpeg',
     titre: 'Comédie Urbaine 1',
     descriptif:
       "Céramique en 2 partie\n\nd'après l'oeuvre de Paul DA\n\n 80 cm par 25 cm de haut",
@@ -553,7 +553,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 26,
+    fichierNom: '26.jpeg',
     titre: 'Comédie Urbaine 2',
     descriptif:
       "Haut relief en terre cuite roug\n\nd'après l'oeuvre de Paul DA\n\n45 cm par 25 cm de haut",
@@ -564,7 +564,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 38,
+    fichierNom: '38.jpeg',
     titre: "La vierge et l'enfant",
     descriptif:
       "D'après l'oeuvre de Michel-Ange\n\nEn terre cuite rouge patinée bronze ver\n\nSur marbre blanc\n\ndimensions : 40 X 50 cm socle compris.",
@@ -575,7 +575,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 46,
+    fichierNom: '46.jpeg',
     titre: 'Rêve',
     descriptif:
       "haut relief en terre cuite rouge patine bronze bleu 31 X 30 cm. Jeune femme nue, sortie d'un bloc de pierre, de la matière. Naissance d'une sculpture.",
@@ -586,7 +586,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 167,
+    fichierNom: '167.jpeg',
     titre: 'Déesse Flore',
     descriptif:
       'Reproduction du bas relief qui orne le fronton du château de CRAON (en Mayenne). La déesse Flore y est représentée.\nImage 1 : oeuvre dans sa version définitive et fidèle à la patine de la sculpture monumentale qui orne le fronton sud du château de CRAON.\nImage 2 : haut relief en séchage',
@@ -597,7 +597,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 168,
+    fichierNom: '168.jpeg',
     titre: 'Déesse Flore',
     descriptif:
       'Reproduction du bas relief qui orne le fronton du château de CRAON (en Mayenne). La déesse Flore y est représentée.\nImage 1 : oeuvre dans sa version définitive et fidèle à la patine de la sculpture monumentale qui orne le fronton sud du château de CRAON.\nImage 2 : haut relief en séchage',
@@ -608,7 +608,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 21,
+    fichierNom: '21.jpeg',
     titre: 'Rêverie',
     descriptif:
       'jeune femme en céramique blanche plongée dans ses songes. Pose de 5 flles d or de 18 carats sur son caraco. Ht :48cm',
@@ -619,7 +619,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 22,
+    fichierNom: '22.jpeg',
     titre: 'Africa',
     descriptif:
       'Terre cuite patine africaine terre d ombre de 1,40 m de haut - 14 kg montée sur un axe interne en inox.',
@@ -630,7 +630,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 23,
+    fichierNom: '23.jpeg',
     titre: 'Cascade de roses',
     descriptif: 'Cascade de roses',
     dateMaj: '2015-04-07',
@@ -640,7 +640,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 24,
+    fichierNom: '24.jpeg',
     titre: 'Coco Chanel',
     descriptif:
       'Jeune femme en Rak\n\nTout en élégance et raffinemen\n\nHauteur : 34 cm',
@@ -651,7 +651,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 27,
+    fichierNom: '27.jpeg',
     titre: 'Déesse minérale',
     descriptif:
       'Statuette Raku de 38 c\n\nrobe lycra turquoise et\n\nmousseline blanche',
@@ -662,7 +662,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 28,
+    fichierNom: '28.jpeg',
     titre: 'Dentelles et fantaisie',
     descriptif:
       "Terre cuite couleur terre d'ombr\n\nNaturelle, en éclatée de dentelles\n\nHauteur :  38 cm",
@@ -673,7 +673,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 29,
+    fichierNom: '29.jpeg',
     titre: 'Donatella',
     descriptif:
       "Demoiselle en drapé du soi\n\nSur robe d'astrakan noi\n\nRaku de 36 cm",
@@ -684,7 +684,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 41,
+    fichierNom: '41.jpeg',
     titre: 'Source',
     descriptif:
       "jeune femme en céramique raku- sortie de bain tout en délicatesse et pudeur, blottie derrière un drapé au glacis blanc craquelé et enfumé sur des roches émaillées d'oxydes métalliques cuivrés.",
@@ -695,7 +695,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 42,
+    fichierNom: '42.jpeg',
     titre: 'Zen',
     descriptif:
       'jeune femme en céramique blanche, lignes pures et attitude sereine. Dimension 36 cm',
@@ -706,7 +706,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 43,
+    fichierNom: '43.jpeg',
     titre: 'Zen N°2',
     descriptif:
       "Statue de 1,25 m, 22 kg en céramique blanche. \n\n2ème version de zen dans une grande dimension. Autre approche en modelage qui a nécessité également une cuisson chez un professionnel dans un four industriel de grande dimension car la sculpture n'a pas été morcelée.",
@@ -717,7 +717,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 47,
+    fichierNom: '47.jpeg',
     titre: 'Maternité',
     descriptif: '',
     dateMaj: '2015-05-03',
@@ -727,7 +727,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 141,
+    fichierNom: '141.jpeg',
     titre: 'Plénitude N°1',
     descriptif: '',
     dateMaj: '2015-06-23',
@@ -737,7 +737,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 58,
+    fichierNom: '58.jpeg',
     titre: 'Jeune fille',
     descriptif: '',
     dateMaj: '2015-05-03',
@@ -747,7 +747,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 55,
+    fichierNom: '55.jpeg',
     titre: 'Soldat chinois',
     descriptif: '',
     dateMaj: '2015-05-03',
@@ -757,7 +757,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 63,
+    fichierNom: '63.jpeg',
     titre: 'Les clowns',
     descriptif: '',
     dateMaj: '2015-05-03',
@@ -767,7 +767,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 66,
+    fichierNom: '66.jpeg',
     titre: 'Comédia del arte',
     descriptif:
       'Masque en terre cuite rouge émaillé et cir\n\ndimension : 50 X 35 cm',
@@ -778,7 +778,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 160,
+    fichierNom: '160.jpeg',
     titre: 'La compagnie des clowns sur la piste aux étoiles !',
     descriptif: 'Pièces uniques en céramique polychrome.',
     dateMaj: '2016-06-08',
@@ -788,7 +788,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 30,
+    fichierNom: '30.jpeg',
     titre: 'Envol',
     descriptif:
       'Création contemporain\n\nRéalisée sur le thème du rêv\n\nCéramique blanche\n\nHauteur 25 cm par 30 cm',
@@ -799,7 +799,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 163,
+    fichierNom: '163.jpeg',
     titre: 'Envol Bronze',
     descriptif: 'Bronze patiné vert antique\n\nDe 15 cm par 15 cm',
     dateMaj: '2016-06-12',
@@ -809,7 +809,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 39,
+    fichierNom: '39.jpeg',
     titre: 'Migration',
     descriptif:
       "Migration  d'oies sauvages pour un envol d'amour vers l'infini... Déclinaison de mon autre sculpture Envol\n\nCéramique blanche patine nuagée bleue dorée.",
@@ -820,7 +820,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 61,
+    fichierNom: '61.jpeg',
     titre: 'Envol ibis',
     descriptif: '',
     dateMaj: '2015-05-03',
@@ -830,7 +830,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 162,
+    fichierNom: '162.jpeg',
     titre: 'Grand envol',
     descriptif:
       "troisième création sur le thème d'envol en grand format 50 X 54 cm. Nouvel ibis en attente d'un baiser pour un envol extraordinaire. La transformation de la mouette en ibis est une inspiration d'Arnaud, un ami passionné d'égyptologie qui m'a donné sans le savoir, toute l'énergie pour modeler cette grande pièce qui est en attente de cuisson.",
@@ -841,7 +841,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 110,
+    fichierNom: '110.jpeg',
     titre: "l'Envol",
     descriptif:
       "Grand bronze réalisé d'après ma création en céramique de 30 cm x 30 cm par la fonderie d'art AVANGINI - PARIS. Très belle réalisation à la cire perdue née d'une collaboration artistique tout en harmonie avec la fonderie, une belle expérience et un vrai bonheur !. Merci à Cathy pour sa qualité d'écoute et son professionnalisme, sans oublier toute l'équipe d'artistes attentionnée  qui a assuré un travail remarquable de \n\nqualité et de grande précision, sans qui l'alchimie n'existerait pas.",
@@ -852,7 +852,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 52,
+    fichierNom: '52.jpeg',
     titre: 'Couple de bouquetins',
     descriptif: '',
     dateMaj: '2015-05-03',
@@ -862,7 +862,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 67,
+    fichierNom: '67.jpeg',
     titre: 'Lion',
     descriptif: '',
     dateMaj: '2015-05-03',
@@ -872,7 +872,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 119,
+    fichierNom: '119.jpeg',
     titre: 'Bastet',
     descriptif:
       'Bastet est la déesse égyptienne, aux traits félins, de la joie du foyer, de la chaleur du soleil et de la maternité',
@@ -883,7 +883,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 152,
+    fichierNom: '152.jpeg',
     titre: 'Bastet',
     descriptif:
       'Bastet est la déesse égyptienne, aux traits félins, de la joie du foyer, de la chaleur du soleil et de la maternité',
@@ -894,7 +894,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 153,
+    fichierNom: '153.jpeg',
     titre: 'Bastet',
     descriptif:
       'Bastet est la déesse égyptienne, aux traits félins, de la joie du foyer, de la chaleur du soleil et de la maternité',
@@ -905,7 +905,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 154,
+    fichierNom: '154.jpeg',
     titre: 'Bastet',
     descriptif:
       'Bastet est la déesse égyptienne, aux traits félins, de la joie du foyer, de la chaleur du soleil et de la maternité',
@@ -916,7 +916,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 155,
+    fichierNom: '155.jpeg',
     titre: 'Bastet',
     descriptif:
       'Bastet est la déesse égyptienne, aux traits félins, de la joie du foyer, de la chaleur du soleil et de la maternité',
@@ -927,7 +927,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 68,
+    fichierNom: '68.jpeg',
     titre: 'Masque africain',
     descriptif: '',
     dateMaj: '2016-06-12',
@@ -937,7 +937,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 123,
+    fichierNom: '123.jpeg',
     titre: 'Flamenco',
     descriptif:
       'Jeune femme tout en mouvement de dentelles et approche tout en expression sur la danse du Flamenco.\nSculpture de 64 cm.\n2 Photos :\n- Céramique blanche\n- Présentation de Flamenco avec une patine rouge carmin sous un voile nacré qui donne un effet de velours.',
@@ -948,7 +948,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 138,
+    fichierNom: '138.jpeg',
     titre: 'Flamenco',
     descriptif:
       'Jeune femme tout en mouvement de dentelles et approche tout en expression sur la danse du Flamenco.\nSculpture de 64 cm.\n2 Photos :\n- Céramique blanche\n- Présentation de Flamenco avec une patine rouge carmin sous un voile nacré qui donne un effet de velours.',
@@ -959,7 +959,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 124,
+    fichierNom: '124.jpeg',
     titre: 'Geisha',
     descriptif:
       'Jeune femme japonaise pouponnée en habit traditionnel avec des effets de soie décorée dans les drapés. patine très riche en couleurs vives.\n2 photos :\n- Vue de face après cuisson\n- Vue de dos, en attente de cuisson.',
@@ -970,7 +970,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 128,
+    fichierNom: '128.jpeg',
     titre: 'Geisha',
     descriptif:
       'Jeune femme japonaise pouponnée en habit traditionnel avec des effets de soie décorée dans les drapés. patine très riche en couleurs vives.\n2 photos :\n- Vue de face après cuisson\n- Vue de dos, en attente de cuisson.',
@@ -981,7 +981,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 125,
+    fichierNom: '125.jpeg',
     titre: 'Rose en grande pléniture',
     descriptif:
       "Beaucoup d'élégance et de sérénité pour cette jeune femme élancée de 70 cm de haut. Patine rubis, noire pour la robe, chemisier en organdi blanc et mauve tout en transparence avec incrustation de dentelles en bronze. Décolleté, tout en sensualité, incrusté de roses dorées qui épousent  en cascade la courbe de son dos.\n2 photos :\n- Vue de dos, après patine\n- Vue de dos, en attente de cuisson.",
@@ -992,7 +992,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 129,
+    fichierNom: '129.jpeg',
     titre: 'Rose en grande pléniture',
     descriptif:
       "Beaucoup d'élégance et de sérénité pour cette jeune femme élancée de 70 cm de haut. Patine rubis, noire pour la robe, chemisier en organdi blanc et mauve tout en transparence avec incrustation de dentelles en bronze. Décolleté, tout en sensualité, incrusté de roses dorées qui épousent  en cascade la courbe de son dos.\n2 photos :\n- Vue de dos, après patine\n- Vue de dos, en attente de cuisson.",
@@ -1003,7 +1003,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 126,
+    fichierNom: '126.jpeg',
     titre: 'Mama Africa',
     descriptif:
       'Jeune maman africaine, pièce unique en terre cuite patinée et cirée.\n\nDimensions : 80cmx32cm',
@@ -1014,7 +1014,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 127,
+    fichierNom: '127.jpeg',
     titre: 'Corrida',
     descriptif:
       'Pièce unique en terre cuite, patine acrylique et cire.\n\nDimensions : 40cmx40cm',
@@ -1025,7 +1025,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 150,
+    fichierNom: '150.jpeg',
     titre: 'Trois âmes unies pour la vie...',
     descriptif:
       "Pièce unique, groupe en terre cuite de 42X54cm, pâtine acrylique. \nCréation de trois jeunes ados africains pour lesquels j'ai eu le bonheur de me donner pour défi de réaliser trois personnages en argile sans armature. Capter la lumière, la vibration, la douceur de leurs regards et la joie de vivre malgré les conditions de vie difficile et diamétralement opposées aux nôtres... Une grande force de fraternité et d'amour partagé dans le dénuement.",
@@ -1036,7 +1036,7 @@ export default [
     typeNom: 'Sculptures',
   },
   {
-    imageId: 45,
+    fichierNom: '45.jpeg',
     titre: 'Bébé DONG',
     descriptif:
       'Bébé chinois de la montagne jaune dans son appârat de soie rose',
@@ -1047,7 +1047,7 @@ export default [
     typeNom: 'Pastels',
   },
   {
-    imageId: 69,
+    fichierNom: '69.jpeg',
     titre: "Coeur de l'ame indienne",
     descriptif: '',
     dateMaj: '2015-05-03',
@@ -1057,7 +1057,7 @@ export default [
     typeNom: 'Pastels',
   },
   {
-    imageId: 132,
+    fichierNom: '132.jpeg',
     titre: 'Agriculteur chinois',
     descriptif: 'Portrait 40 X 50 cm',
     dateMaj: '2015-06-23',
@@ -1067,7 +1067,7 @@ export default [
     typeNom: 'Pastels',
   },
   {
-    imageId: 113,
+    fichierNom: '113.jpeg',
     titre: 'Amazonien',
     descriptif:
       "Portrait en pastel sec de format 70 X 50 cm\n\nApproche d'un portrait en grand format, véritable mosaïque de couleur dont la difficulté a été de transcrire en simultané l'épaisseur du maquillage de terres d'ocre tout en faisant  transparaitre le volume du visage. La coiffe du personnage est composée de différents végétaux, un tableau vivant à l'état pur...",
@@ -1078,7 +1078,7 @@ export default [
     typeNom: 'Pastels',
   },
   {
-    imageId: 111,
+    fichierNom: '111.jpeg',
     titre: 'jeune chasseur amazonien',
     descriptif:
       "jeune chasseur amazonien appartenant à ma collection de portraits exotiques, coiffé d'une tête de gazelle.",
@@ -1089,7 +1089,7 @@ export default [
     typeNom: 'Pastels',
   },
   {
-    imageId: 44,
+    fichierNom: '44.jpeg',
     titre: 'Baguera',
     descriptif: "Portrait de mon chat mascott\n\nRéalisée d'après photo",
     dateMaj: '2012-09-16',
@@ -1099,7 +1099,7 @@ export default [
     typeNom: 'Pastels',
   },
   {
-    imageId: 99,
+    fichierNom: '99.jpeg',
     titre: "Maki roux de l'ile de Mayotte",
     descriptif: 'Portrait 40 X 30 cm',
     dateMaj: '2015-06-18',
@@ -1109,7 +1109,7 @@ export default [
     typeNom: 'Pastels',
   },
   {
-    imageId: 100,
+    fichierNom: '100.jpeg',
     titre: 'Hamster doré',
     descriptif: 'Portrait 24 X 30 cm',
     dateMaj: '2015-06-18',
@@ -1119,7 +1119,7 @@ export default [
     typeNom: 'Pastels',
   },
   {
-    imageId: 101,
+    fichierNom: '101.jpeg',
     titre: 'Chat tigré',
     descriptif: 'Portrait 24 X 30 cm',
     dateMaj: '2015-06-18',
@@ -1129,7 +1129,7 @@ export default [
     typeNom: 'Pastels',
   },
   {
-    imageId: 151,
+    fichierNom: '151.jpeg',
     titre: 'Utile',
     descriptif:
       "C'est avec beaucoup d'émotion que j'ai réalisé, d'après photo, le portrait pastel du petit animal de compagnie de Simone, plus qu'une amie, une belle personne, en cadeau pour ses 85 ans.",
@@ -1140,7 +1140,7 @@ export default [
     typeNom: 'Pastels',
   },
   {
-    imageId: 71,
+    fichierNom: '71.jpeg',
     titre: 'Soldat Ibo du Biafra',
     descriptif: 'jeune soldat Ibo de la région sud-est du Nigéria',
     dateMaj: '2012-11-11',
@@ -1150,7 +1150,7 @@ export default [
     typeNom: 'Dessins à la mine graphite',
   },
   {
-    imageId: 72,
+    fichierNom: '72.jpeg',
     titre: 'Jeune femme Magache',
     descriptif: '',
     dateMaj: '2015-06-23',
@@ -1160,7 +1160,7 @@ export default [
     typeNom: 'Dessins à la mine graphite',
   },
   {
-    imageId: 73,
+    fichierNom: '73.jpeg',
     titre: 'Homme africain',
     descriptif:
       "Approche au travers de ce portrait des rides d'expression et représentation de différents percings.",
@@ -1171,7 +1171,7 @@ export default [
     typeNom: 'Dessins à la mine graphite',
   },
   {
-    imageId: 74,
+    fichierNom: '74.jpeg',
     titre: 'Vieille femme',
     descriptif: '',
     dateMaj: '2015-05-03',
@@ -1181,7 +1181,7 @@ export default [
     typeNom: 'Dessins à la mine graphite',
   },
   {
-    imageId: 75,
+    fichierNom: '75.jpeg',
     titre: 'Enfant chinois',
     descriptif:
       "Enfant des campagnes à l'ouest du Guizhou dans le regard duquel une certaine gravité est perceptible. Enfant non scolarisé qui travaille aux champs toute la journée dans des conditions difficiles.",
@@ -1192,7 +1192,7 @@ export default [
     typeNom: 'Dessins à la mine graphite',
   },
   {
-    imageId: 76,
+    fichierNom: '76.jpeg',
     titre: 'Vieillard portugais',
     descriptif:
       "Etude au crayon réalisée d'après l'oeuvre de Ruben Belloso en pastel sec surdimentionné.",
@@ -1203,7 +1203,7 @@ export default [
     typeNom: 'Dessins à la mine graphite',
   },
   {
-    imageId: 77,
+    fichierNom: '77.jpeg',
     titre: 'Jeune fille Birmane',
     descriptif:
       "Portrait réalisée d'après une carte postale couleur qui m'a été adressée par Chantale une amie.",
@@ -1214,7 +1214,7 @@ export default [
     typeNom: 'Dessins à la mine graphite',
   },
   {
-    imageId: 78,
+    fichierNom: '78.jpeg',
     titre: 'Jeune enfant du Laos',
     descriptif: "Etude au crayon réalisée d'après photo couleur.",
     dateMaj: '2012-11-11',
@@ -1224,7 +1224,7 @@ export default [
     typeNom: 'Dessins à la mine graphite',
   },
   {
-    imageId: 79,
+    fichierNom: '79.jpeg',
     titre: 'Danseuse Flamenco',
     descriptif:
       "Etude préparatoire au crayon pour la réalisation d'une sculpture en céramique.",
@@ -1235,7 +1235,7 @@ export default [
     typeNom: 'Dessins à la mine graphite',
   },
   {
-    imageId: 80,
+    fichierNom: '80.jpeg',
     titre: 'Ingres en miroir',
     descriptif:
       "étude au crayon de la douceur de l'expression d'après l'oeuvre \\\\\"Ingres en miroir\\\\\".",
@@ -1246,7 +1246,7 @@ export default [
     typeNom: 'Dessins à la mine graphite',
   },
   {
-    imageId: 81,
+    fichierNom: '81.jpeg',
     titre: 'La petite boudeuse',
     descriptif:
       "Sanguine à l'huile utilisée pour la réalisation de ce portrait.",
@@ -1257,7 +1257,7 @@ export default [
     typeNom: 'Dessins à la mine graphite',
   },
   {
-    imageId: 82,
+    fichierNom: '82.jpeg',
     titre: 'David',
     descriptif:
       "Sanguine pour ce portrait de David d'après l'oeuvre de M. Ange.",
@@ -1268,7 +1268,7 @@ export default [
     typeNom: 'Dessins à la mine graphite',
   },
   {
-    imageId: 83,
+    fichierNom: '83.jpeg',
     titre: 'Jeune marocaine',
     descriptif: '',
     dateMaj: '2015-05-03',
@@ -1278,7 +1278,7 @@ export default [
     typeNom: 'Dessins à la mine graphite',
   },
   {
-    imageId: 85,
+    fichierNom: '85.jpeg',
     titre: 'Etude portraits masculins.',
     descriptif: '',
     dateMaj: '2015-05-03',
@@ -1288,7 +1288,7 @@ export default [
     typeNom: 'Dessins à la mine graphite',
   },
   {
-    imageId: 140,
+    fichierNom: '140.jpeg',
     titre: 'jeune fille asiatique',
     descriptif: 'étude de portrait d après photo couleur.',
     dateMaj: '2015-06-23',
@@ -1298,7 +1298,7 @@ export default [
     typeNom: 'Dessins à la mine graphite',
   },
   {
-    imageId: 112,
+    fichierNom: '112.jpeg',
     titre: 'Pacôme au regard fascinant !!!',
     descriptif:
       "Portrait réalisé d'après photo du petit Pacôme, petit fils de mes amis Marie Françoise et Claude, dont le regard m'a fasciné. Un jeune garçon pétillant de vie et d'intelligence, d'où mon coup de coeur instantané à réaliser son portrait, très belle rencontre.",
@@ -1309,7 +1309,7 @@ export default [
     typeNom: 'Dessins à la mine graphite',
   },
   {
-    imageId: 84,
+    fichierNom: '84.jpeg',
     titre: 'Nu féminin',
     descriptif: 'Etude de nu féminin.',
     dateMaj: '2012-11-11',
@@ -1317,5 +1317,34 @@ export default [
     dateCreation: '2012-11-11',
     caterogieNom: 'Nus',
     typeNom: 'Dessins à la mine graphite',
+  },
+  {
+    fichierNom: '20170529_petit-moment-de-bonheur-partage.jpeg',
+    titre: 'Petit moment de bonheur partagé',
+    descriptif: '',
+    terre2Femmes: 0,
+    dateCreation: '2017-05-29',
+    caterogieNom: 'Couleurs du monde',
+    typeNom: 'Sculptures',
+  },
+  {
+    fichierNom: '20180923_decouverte-surprenante-monde-extraordinaire.jpg',
+    titre:
+      "Découverte surprenante d'un autre monde extraordinaire, tout simplement de demain...",
+    descriptif:
+      'Groupe de sculptures en terre cuite patinée sur un support en bois de lierre avec un aspect de bois flotté',
+    terre2Femmes: 0,
+    dateCreation: '2018-09-23',
+    caterogieNom: 'Couleurs du monde',
+    typeNom: 'Sculptures',
+  },
+  {
+    fichierNom: '20200428_bouddah.jpg',
+    titre: 'Bouddha',
+    descriptif: '',
+    terre2Femmes: 0,
+    dateCreation: '2020-04-28',
+    caterogieNom: 'Bustes',
+    typeNom: 'Sculptures',
   },
 ];

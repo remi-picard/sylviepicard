@@ -3,7 +3,7 @@ import { LitElement, html, css } from 'lit-element';
 export class ImageElement extends LitElement {
   static get properties() {
     return {
-      id: { type: Number },
+      fichierNom: { type: String },
       titre: { type: String },
       descriptif: { type: String },
     };
@@ -12,9 +12,11 @@ export class ImageElement extends LitElement {
   static get styles() {
     return css`
       :host {
-        position: relative;
         margin-left: 5px;
         margin-bottom: 5px;
+      }
+      .container {
+        position: relative;
       }
       @media screen and (max-width: 640px) {
         img {
@@ -36,11 +38,15 @@ export class ImageElement extends LitElement {
   }
 
   render() {
-    const url = new URL(`./assets/img/moyen/${this.id}.jpeg`, import.meta.url)
-      .href;
+    const url = new URL(
+      `./assets/img/moyen/${this.fichierNom}`,
+      import.meta.url
+    ).href;
     return html`
-      <img src=${url} title="${this.titre}" alt="${this.titre}" />
-      <div class="titre">${this.titre}</div>
+      <div class="container">
+        <img src=${url} title="${this.titre}" alt="${this.titre}" />
+        <div class="titre">${this.titre}</div>
+      </div>
     `;
   }
 }
