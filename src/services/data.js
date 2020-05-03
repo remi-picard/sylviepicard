@@ -1328,6 +1328,15 @@ export default [
     typeNom: 'Sculptures',
   },
   {
+    fichierNom: '20171023_attente-soin-soleil-mozambique.jpg',
+    titre: "L'attente du soin sous le soleil du Mozambique",
+    descriptif: '',
+    terre2Femmes: 0,
+    dateCreation: '2017-10-23',
+    caterogieNom: 'Couleurs du monde',
+    typeNom: 'Sculptures',
+  },
+  {
     fichierNom: '20180923_decouverte-surprenante-monde-extraordinaire.jpg',
     titre:
       "Découverte surprenante d'un autre monde extraordinaire, tout simplement de demain...",
