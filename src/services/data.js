@@ -1338,10 +1338,9 @@ export default [
   },
   {
     fichierNom: '20180923_decouverte-surprenante-monde-extraordinaire.jpg',
-    titre:
-      "Découverte surprenante d'un autre monde extraordinaire, tout simplement de demain...",
+    titre: 'Découverte du monde virtuel !',
     descriptif:
-      'Groupe de sculptures en terre cuite patinée sur un support en bois de lierre avec un aspect de bois flotté',
+      "Groupe de sculptures en terre cuite patinée sur un support en bois de lierre avec un aspect de bois flotté. Découverte surprenante d'un autre monde extraordinaire, tout simplement de demain...",
     terre2Femmes: 0,
     dateCreation: '2018-09-23',
     caterogieNom: 'Couleurs du monde',
