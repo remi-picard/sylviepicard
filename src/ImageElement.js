@@ -6,6 +6,7 @@ export class ImageElement extends LitElement {
       fichierNom: { type: String },
       titre: { type: String },
       descriptif: { type: String },
+      modeAffichage: { type: String },
     };
   }
 
@@ -29,10 +30,15 @@ export class ImageElement extends LitElement {
         position: absolute;
         bottom: 5px;
         left: 50%;
-        margin-left: -125px;
-        width: 250px;
         text-align: center;
         background-color: rgba(0, 0, 0, 0.5);
+      }
+
+      @media screen and (max-width: 640px) {
+        div.titre {
+          margin-left: -100px;
+          width: 200px;
+        }
       }
     `;
   }
@@ -43,6 +49,17 @@ export class ImageElement extends LitElement {
       import.meta.url
     ).href;
     return html`
+      <style>
+        @media screen and (min-width: 641px) {
+          img {
+            max-height: ${this.modeAffichage === 'full' ? '100%' : '300px'};
+          }
+          div.titre {
+            margin-left: ${this.modeAffichage === 'full' ? '-150px' : '-100px'};
+            width: ${this.modeAffichage === 'full' ? '300px' : '200px'};
+          }
+        }
+      </style>
       <div class="container">
         <img src=${url} title="${this.titre}" alt="${this.titre}" />
         <div class="titre">${this.titre}</div>
